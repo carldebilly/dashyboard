@@ -9,7 +9,7 @@ insert_final_newline = true
 [*.cs]
 indent_style = tab
 
-[*.csproj]
+[{*.csproj, *.appxmanifest}]
 indent_style = tab
 tab_width = 2
 indent_size = 2
